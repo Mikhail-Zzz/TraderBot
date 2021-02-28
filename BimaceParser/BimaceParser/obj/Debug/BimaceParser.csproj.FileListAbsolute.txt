@@ -1,0 +1,14 @@
+E:\workProject\BimaceParser\BimaceParser\bin\Debug\BimaceParser.exe.config
+E:\workProject\BimaceParser\BimaceParser\bin\Debug\BimaceParser.exe
+E:\workProject\BimaceParser\BimaceParser\bin\Debug\BimaceParser.pdb
+E:\workProject\BimaceParser\BimaceParser\bin\Debug\Newtonsoft.Json.dll
+E:\workProject\BimaceParser\BimaceParser\bin\Debug\RestSharp.dll
+E:\workProject\BimaceParser\BimaceParser\bin\Debug\Newtonsoft.Json.xml
+E:\workProject\BimaceParser\BimaceParser\bin\Debug\RestSharp.xml
+E:\workProject\BimaceParser\BimaceParser\obj\Debug\BimaceParser.csprojAssemblyReference.cache
+E:\workProject\BimaceParser\BimaceParser\obj\Debug\BimaceParser.Form1.resources
+E:\workProject\BimaceParser\BimaceParser\obj\Debug\BimaceParser.Properties.Resources.resources
+E:\workProject\BimaceParser\BimaceParser\obj\Debug\BimaceParser.csproj.GenerateResource.cache
+E:\workProject\BimaceParser\BimaceParser\obj\Debug\BimaceParser.csproj.CopyComplete
+E:\workProject\BimaceParser\BimaceParser\obj\Debug\BimaceParser.exe
+E:\workProject\BimaceParser\BimaceParser\obj\Debug\BimaceParser.pdb
